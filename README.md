@@ -1,4 +1,2 @@
-# 스프링 공부
-
-# 11.14 
-# 스프링의 기본 라이브러리와 베포방법 및  bulid하는것을 공부하였다.
+# SpringWeb
+공부정리 : https://www.notion.so/443368be2c304fd2822ffd4844af9824
